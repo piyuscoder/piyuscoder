@@ -74,7 +74,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=piyuscoder&theme=github-dark&hide_border=false" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyuscoder&layout=compact&theme=github_dark" width="40%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyuscoder&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </p>
 
 
