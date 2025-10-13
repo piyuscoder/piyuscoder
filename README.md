@@ -54,16 +54,8 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-## 🧪 Projects
-
-| 🚀 Project             | 🔍 Description                                                | 🛠 Tech Stack                      |
-|-----------------------|----------------------------------------------------------------|------------------------------------|
-| **LeetStats Tracker** | Fetches LeetCode user stats via GraphQL and displays progress | HTML, CSS, JS, APIs       |
 
 
-> 📌 More projects and GitHub repos coming soon. Stay tuned!
 
 ---
 
